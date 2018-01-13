@@ -11,6 +11,7 @@ function yourAnimal() {
   return animal
 }
 
+myAnimal();
 yourAnimal();
 
 function add2(n) {
